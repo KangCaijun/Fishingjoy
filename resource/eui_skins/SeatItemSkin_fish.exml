@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SeatItemSkin_fish" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="batteryDisplay" x="70" y="60" touchChildren="true" touchThrough="true" touchEnabled="false">
+		<e:Group id="batteryBase" x="174" y="84" touchThrough="true" touchChildren="true" touchEnabled="false">
+			<e:Image x="-140" y="10" scaleX="1" scaleY="1" source="batteryBase4" touchEnabled="false"/>
+			<e:Group id="_batteryFireBox" y="-50" x="-33" touchEnabled="false" touchThrough="true" touchChildren="false">
+				<e:Image id="_firingImg" x="0" y="100" scaleX="1" scaleY="1" source="battery1" anchorOffsetX="33.5" anchorOffsetY="80" touchEnabled="false"/>
+				<e:Rect id="focus" width="1" height="1" x="0" y="98.96" scaleX="1" scaleY="1"/>
+			</e:Group>
+			<e:Image x="68" y="52" scaleX="1" scaleY="1" source="batteryBase5" touchEnabled="false"/>
+			<e:Image x="95" y="68" scaleX="1" scaleY="1" source="batteryBase6" scale9Grid="15,11,94,11" anchorOffsetX="0" width="143" touchEnabled="false" height="31"/>
+			<e:Image id="_coinImg" x="98" y="82" scaleX="1" scaleY="1" source="batteryBase7" anchorOffsetX="17.5" anchorOffsetY="17.5" touchEnabled="false"/>
+			<e:Image x="-106" y="60" scaleX="1" scaleY="1" source="batteryBase3" touchEnabled="false"/>
+			<e:Image id="_decreaseImg" x="-34" y="81" scaleX="1" scaleY="1" source="batteryBase1" anchorOffsetX="125" anchorOffsetY="29"/>
+			<e:Image id="_increaseImg" x="-35" y="81" scaleX="1" scaleY="1" source="batteryBase2" anchorOffsetY="29" anchorOffsetX="-55"/>
+			<e:BitmapLabel id="_moneyTF" x="173" y="84" font="coinFont_fish_fnt" text="9999" scaleX="0.36" scaleY="0.36" anchorOffsetX="160" width="320" anchorOffsetY="19.5" touchEnabled="false" height="40"/>
+			<e:BitmapLabel id="_costMoneyTF" x="-33" y="83" font="coinFont_fish_fnt" text="9999" scaleX="0.5" scaleY="0.5" anchorOffsetX="98" width="196" textAlign="center" anchorOffsetY="20.5" height="41" touchEnabled="false"/>
+			<e:Label id="_nameTF" text="一切都是蛇皮asd as " x="168.4" y="44.65" anchorOffsetX="94.9" width="189.8" size="20" textColor="0xffde96" stroke="2" strokeColor="0x0c1238" anchorOffsetY="12" textAlign="center" fontFamily="SimHei" touchEnabled="false" height="20"/>
+
+		</e:Group>
+
+	</e:Group>
+	<e:Image id="waitingToJoin" x="279" y="213" source="battery11" anchorOffsetX="106.5" anchorOffsetY="29" touchEnabled="false" visible="false"/>
+
+</e:Skin>

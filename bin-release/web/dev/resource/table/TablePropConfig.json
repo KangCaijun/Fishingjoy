@@ -1,0 +1,5 @@
+[
+{"id":1,"useTime":0,"coolTime":0,"needBatteryId":50},
+{"id":2,"useTime":0,"coolTime":0,"needBatteryId":100},
+{"id":3,"useTime":0,"coolTime":0,"needBatteryId":1000}
+]

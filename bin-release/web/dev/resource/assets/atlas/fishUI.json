@@ -1,0 +1,455 @@
+{
+  "file": "fishUI.png",
+  "frames": {
+    "aimBig": {
+      "x": 201,
+      "y": 690,
+      "w": 87,
+      "h": 87,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 87
+    },
+    "aimPoint": {
+      "x": 618,
+      "y": 208,
+      "w": 20,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 20,
+      "sourceH": 20
+    },
+    "battery1": {
+      "x": 308,
+      "y": 613,
+      "w": 67,
+      "h": 104,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 67,
+      "sourceH": 104
+    },
+    "battery2": {
+      "x": 948,
+      "y": 0,
+      "w": 68,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 69,
+      "sourceH": 101
+    },
+    "battery3": {
+      "x": 0,
+      "y": 634,
+      "w": 105,
+      "h": 112,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 105,
+      "sourceH": 113
+    },
+    "battery4": {
+      "x": 892,
+      "y": 243,
+      "w": 98,
+      "h": 124,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 98,
+      "sourceH": 124
+    },
+    "battery5": {
+      "x": 106,
+      "y": 682,
+      "w": 94,
+      "h": 111,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 95,
+      "sourceH": 111
+    },
+    "battery6": {
+      "x": 308,
+      "y": 499,
+      "w": 92,
+      "h": 113,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 113
+    },
+    "battery7": {
+      "x": 0,
+      "y": 747,
+      "w": 95,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 95,
+      "sourceH": 120
+    },
+    "battery8": {
+      "x": 572,
+      "y": 379,
+      "w": 111,
+      "h": 122,
+      "offX": 0,
+      "offY": 5,
+      "sourceW": 111,
+      "sourceH": 127
+    },
+    "battery9": {
+      "x": 814,
+      "y": 123,
+      "w": 127,
+      "h": 119,
+      "offX": 2,
+      "offY": 1,
+      "sourceW": 130,
+      "sourceH": 125
+    },
+    "battery10": {
+      "x": 814,
+      "y": 0,
+      "w": 133,
+      "h": 122,
+      "offX": 3,
+      "offY": 3,
+      "sourceW": 138,
+      "sourceH": 128
+    },
+    "battery11": {
+      "x": 684,
+      "y": 429,
+      "w": 213,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 213,
+      "sourceH": 58
+    },
+    "batteryBase1": {
+      "x": 289,
+      "y": 718,
+      "w": 70,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 58
+    },
+    "batteryBase2": {
+      "x": 376,
+      "y": 693,
+      "w": 70,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 58
+    },
+    "batteryBase3": {
+      "x": 201,
+      "y": 778,
+      "w": 144,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 144,
+      "sourceH": 46
+    },
+    "batteryBase4": {
+      "x": 438,
+      "y": 285,
+      "w": 211,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 211,
+      "sourceH": 93
+    },
+    "batteryBase5": {
+      "x": 99,
+      "y": 509,
+      "w": 202,
+      "h": 59,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 202,
+      "sourceH": 59
+    },
+    "batteryBase6": {
+      "x": 650,
+      "y": 328,
+      "w": 124,
+      "h": 31,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 124,
+      "sourceH": 31
+    },
+    "batteryBase7": {
+      "x": 0,
+      "y": 980,
+      "w": 35,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 35,
+      "sourceH": 35
+    },
+    "batteryBase8": {
+      "x": 225,
+      "y": 499,
+      "w": 30,
+      "h": 8,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 30,
+      "sourceH": 8
+    },
+    "batteryBase9": {
+      "x": 456,
+      "y": 607,
+      "w": 70,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 58
+    },
+    "batteryBase10": {
+      "x": 948,
+      "y": 101,
+      "w": 70,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 58
+    },
+    "batterySelf1": {
+      "x": 401,
+      "y": 502,
+      "w": 67,
+      "h": 104,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 67,
+      "sourceH": 104
+    },
+    "batterySelf2": {
+      "x": 469,
+      "y": 502,
+      "w": 68,
+      "h": 100,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 69,
+      "sourceH": 101
+    },
+    "batterySelf3": {
+      "x": 106,
+      "y": 569,
+      "w": 105,
+      "h": 112,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 105,
+      "sourceH": 113
+    },
+    "batterySelf4": {
+      "x": 0,
+      "y": 509,
+      "w": 98,
+      "h": 124,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 98,
+      "sourceH": 124
+    },
+    "batterySelf5": {
+      "x": 0,
+      "y": 868,
+      "w": 94,
+      "h": 111,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 95,
+      "sourceH": 111
+    },
+    "batterySelf6": {
+      "x": 96,
+      "y": 794,
+      "w": 92,
+      "h": 113,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 113
+    },
+    "batterySelf7": {
+      "x": 212,
+      "y": 569,
+      "w": 95,
+      "h": 120,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 95,
+      "sourceH": 120
+    },
+    "batterySelf8": {
+      "x": 780,
+      "y": 243,
+      "w": 111,
+      "h": 122,
+      "offX": 0,
+      "offY": 5,
+      "sourceW": 111,
+      "sourceH": 127
+    },
+    "batterySelf9": {
+      "x": 650,
+      "y": 208,
+      "w": 129,
+      "h": 119,
+      "offX": 1,
+      "offY": 1,
+      "sourceW": 130,
+      "sourceH": 125
+    },
+    "batterySelf10": {
+      "x": 438,
+      "y": 379,
+      "w": 133,
+      "h": 122,
+      "offX": 3,
+      "offY": 3,
+      "sourceW": 138,
+      "sourceH": 128
+    },
+    "batterySelfInfo1": {
+      "x": 0,
+      "y": 0,
+      "w": 332,
+      "h": 285,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 332,
+      "sourceH": 285
+    },
+    "batterySelfInfo2": {
+      "x": 684,
+      "y": 366,
+      "w": 207,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 207,
+      "sourceH": 62
+    },
+    "down": {
+      "x": 333,
+      "y": 0,
+      "w": 284,
+      "h": 284,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 284,
+      "sourceH": 284
+    },
+    "fishBoom1": {
+      "x": 618,
+      "y": 0,
+      "w": 195,
+      "h": 207,
+      "offX": 18,
+      "offY": 12,
+      "sourceW": 230,
+      "sourceH": 230
+    },
+    "fishBoom2": {
+      "x": 0,
+      "y": 286,
+      "w": 224,
+      "h": 222,
+      "offX": 0,
+      "offY": 8,
+      "sourceW": 230,
+      "sourceH": 230
+    },
+    "fishJS": {
+      "x": 376,
+      "y": 613,
+      "w": 79,
+      "h": 79,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 79
+    },
+    "fishMenu": {
+      "x": 538,
+      "y": 502,
+      "w": 77,
+      "h": 78,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 77,
+      "sourceH": 78
+    },
+    "fishMZ": {
+      "x": 95,
+      "y": 908,
+      "w": 79,
+      "h": 79,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 79
+    },
+    "fishZD": {
+      "x": 189,
+      "y": 825,
+      "w": 79,
+      "h": 79,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 79
+    },
+    "middle": {
+      "x": 225,
+      "y": 286,
+      "w": 212,
+      "h": 212,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 212,
+      "sourceH": 212
+    },
+    "zidanlv": {
+      "x": 175,
+      "y": 908,
+      "w": 45,
+      "h": 83,
+      "offX": 23,
+      "offY": 7,
+      "sourceW": 90,
+      "sourceH": 90
+    },
+    "zidanzi": {
+      "x": 269,
+      "y": 825,
+      "w": 45,
+      "h": 83,
+      "offX": 23,
+      "offY": 7,
+      "sourceW": 90,
+      "sourceH": 90
+    }
+  }
+}

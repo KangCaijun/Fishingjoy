@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainSceneSkin_fish" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="backGround0" x="640" y="360" source="bg1_jpg" width="1280" height="720" rotation="0" anchorOffsetX="640" anchorOffsetY="360"/>
+
+
+
+
+
+
+
+
+
+
+
+
+</e:Skin>

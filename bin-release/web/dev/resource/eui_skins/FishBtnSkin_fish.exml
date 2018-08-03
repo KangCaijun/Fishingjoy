@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="FishBtnSkin_fish" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="BtnGroup" x="49.03" y="195.31">
+		<e:Image id="aimShoot" x="0" y="3" source="fishMZ"/>
+		<e:Image id="autoShoot" x="0" y="165.68" source="fishZD"/>
+		<e:Image id="fastShoot" x="0" y="84.5" source="fishJS" scaleX="1" scaleY="1"/>
+	</e:Group>
+	<e:Image id="exitGameBtn" y="4" source="fishMenu" x="1198"/>
+
+	<e:CheckBox id="gmCheckBox" label="GM" anchorOffsetX="0" width="80" anchorOffsetY="0" height="30" bottom="0" left="0" skinName="GMButtonSkin_fish"/>
+	<e:CheckBox id="sceneSwitching" label="测试" anchorOffsetX="0" width="62" anchorOffsetY="0" height="54" bottom="572" skinName="GMButtonSkin_fish" right="13"/>
+
+	<e:CheckBox id="nineGrid" label="九屏" anchorOffsetX="0" width="62" anchorOffsetY="0" height="54" bottom="574" left="1204" skinName="GMButtonSkin_fish" visible="false"/>
+	<e:Group id="gmGroup" anchorOffsetY="0" anchorOffsetX="0" bottom="30" left="0">
+		<e:layout>
+		<e:VerticalLayout gap="0" verticalAlign="bottom"/>
+		</e:layout>
+	</e:Group>
+	<e:Label id="goldPoolLabel" text="0" size="18" textColor="0x28ff00" horizontalCenter="0" y="0" visible="false"/>
+	<e:Image id="helpBtn" x="7.73" y="4" source="FishHelp1"/>
+</e:Skin>

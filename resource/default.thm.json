@@ -1,0 +1,11 @@
+{
+  "skins": {},
+  "autoGenerateExmlsList": true,
+  "exmls": [
+    "resource/eui_skins/GMButtonSkin_fish.exml",
+    "resource/eui_skins/FishBtnSkin_fish.exml",
+    "resource/eui_skins/FishHelpSkin.exml",
+    "resource/eui_skins/MainSceneSkin_fish.exml",
+    "resource/eui_skins/SeatItemSkin_fish.exml"
+  ]
+}
